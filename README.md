@@ -1,6 +1,6 @@
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/dahbiz/QiskitFallFestRabat/blob/37a74ca2bec244734e10f4034df6018f4a4a39ba/QISKITFALL.jpg?raw=true)
 
 
 
