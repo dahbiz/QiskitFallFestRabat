@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/dahbiz/QiskitFallFestRabat/blob/37a74ca2bec244734e10f4034df6018f4a4a39ba/QISKITFALL.jpg?raw=true)
 
-You can find more details here: https://sites.google.com/view/qiskit-fall-fest-morocco
+###### You can find more details here: https://sites.google.com/view/qiskit-fall-fest-morocco
 
 
-This repository contains the PDF and the Keynote source of my talk on the basic intro of quantum computing.  
+###### This repository contains the PDF and the Keynote source of my talk on the basic intro of quantum computing.  
